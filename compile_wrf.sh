@@ -41,4 +41,4 @@ rm -rf compile_real.log
 #1
 #EOF
 ./compile em_real &> compile_real.log
-#./compile em_real
+./compile em_real
